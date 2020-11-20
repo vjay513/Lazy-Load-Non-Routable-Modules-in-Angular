@@ -10,4 +10,4 @@ export const lazyMap: LAZY_MODULES = {
 
 export const LAZY_MODULES_MAP = new InjectionToken('LAZY_MODULES_MAP', {
   factory: () => lazyMap
-});
+});;
