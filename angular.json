@@ -33,7 +33,10 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "lazyModules": [
+              "src/app/widget-settings/widget-settings.module"
+            ]
           },
           "configurations": {
             "production": {
