@@ -31,12 +31,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css"
             ],
-            "scripts": [],
-            "lazyModules": [
-              "src/app/widget-settings/widget-settings.module"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
